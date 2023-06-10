@@ -1,0 +1,54 @@
+header{
+    width:100%;
+    /* height:100px; */
+    background-image: linear-gradient(120deg,#ff9933,white,#138808);
+    position: fixed;
+    overscroll-behavior: none;
+    z-index:1;  /*using to avoid overlapping of body content */
+}
+section{
+    padding-top: 100px;
+    width:100%;
+    height: auto;
+    background-color: rgb(219, 219, 179);
+    
+    
+} 
+
+/* .collapse{
+   padding-left:75vh;
+} */
+.fsize{
+    font-weight: 500;
+    color: #00205b;
+}
+body{
+    /* scroll-behavior: smooth; */
+}
+.card{
+    padding:10px;
+    margin:45px;
+}
+.navheading{
+    padding-left: 15px;
+    font-weight: bold;
+    font-size:25px;
+    color: #00205b;
+    padding-top: 8px;
+   
+}
+.navitem{
+    color: #00205b;
+}
+.navlogo{
+    margin-left: 10px;
+}
+footer{
+    width:100%;
+    height:70px;
+    background-image:linear-gradient(120deg,#ff9933,white,#138808) ;
+    padding-top: 20px;
+    color:#00205b;
+    font-size: 17px;
+    font-weight: bold;
+}
