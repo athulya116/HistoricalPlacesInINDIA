@@ -526,9 +526,6 @@ hr
 {
   max-width: 100%;
   height: auto;
-  border-width: 3px;
-  border-color: white;
-  border-style: solid;
 }
 
 .img-thumbnail
@@ -7891,7 +7888,7 @@ a.bg-dark:focus,a.bg-dark:hover,button.bg-dark:focus,button.bg-dark:hover
 
 .rounded-circle
 {
-  border-radius: 50%!important;
+ 
 }
 
 .rounded-pill

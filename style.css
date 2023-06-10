@@ -32,7 +32,7 @@ body{
 .navheading{
     padding-left: 15px;
     font-weight: bold;
-    font-size:25px;
+    font-size:20px;
     color: #00205b;
     padding-top: 8px;
    
@@ -41,7 +41,7 @@ body{
     color: #00205b;
 }
 .navlogo{
-    margin-left: 10px;
+    margin-left: px;
 }
 footer{
     width:100%;
