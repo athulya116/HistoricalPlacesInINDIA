@@ -11,19 +11,10 @@ section{
     width:100%;
     height: auto;
     background-color: rgb(219, 219, 179);
-    
-    
 } 
-
-/* .collapse{
-   padding-left:75vh;
-} */
 .fsize{
     font-weight: 500;
     color: #00205b;
-}
-body{
-    /* scroll-behavior: smooth; */
 }
 .card{
     padding:10px;
